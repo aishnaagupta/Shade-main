@@ -1,4 +1,4 @@
-# 🌳 SHADE — Urban Heat & Tree-Canopy Intelligence
+# 🌳 SHADE — Urban Heat & Tree-Canopy Intelligence 
 
 > **A ward-level decision-support system for identifying urban heat-vulnerable areas and prioritising tree-canopy interventions across Pune.**
 
